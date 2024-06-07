@@ -1,7 +1,6 @@
 # Olá! Me chamo Débora,
 
-Ex estudante de psicologia, trabalhei na área Administrativa/Financeira por dez anos,e encontrei na programação um mundo de muitas possibilidades que eu quero explorar, isso me fez em Junho/2023 iniciar um curso de Desenvolvimento de Software Fullstack, com foco na linguagem Javascript na Cubos Academy, também sou apaixonada por aprender outros idiomas, além da minha lingua materna, falo italiano que aprendi estudando sozinha, e atualmente estudo inglês e romeno também sozinha.
-### Me encontre aqui
+
 [![linkedin]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debora-patca/)
 
 E-mail- patcadebora@gmail.com
